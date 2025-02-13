@@ -1,0 +1,17 @@
+{
+  "name": "5x5x3 Quad LCR",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:ev_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:inert_machine_casing\"},{Name:\"gtceu:large_chemical_reactor\",Properties:{facing:\"north\",server_tick:\"false\",upwards_facing:\"north\"}},{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:ptfe_pipe_casing\"},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_hatch_4x\",Properties:{facing:\"down\",server_tick:\"false\"}},{Name:\"gtceu:cupronickel_coil_block\",Properties:{active:\"false\"}},{Name:\"gtceu:ev_output_hatch_4x\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:ev_output_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:large_chemical_reactor\",Properties:{facing:\"south\",server_tick:\"false\",upwards_facing:\"north\"}}],endpos:{X:0,Y:2,Z:4},startpos:{X:-4,Y:0,Z:0},statelist:[I;0,1,1,1,0,1,2,1,2,1,1,1,1,1,1,1,3,1,3,1,4,5,1,5,6,1,1,1,1,1,1,1,7,1,1,1,8,1,8,1,9,10,11,10,9,1,3,1,3,1,4,5,1,5,6,1,1,1,1,1,0,1,1,1,0,1,12,1,12,1,1,1,1,1,1]}",
+  "requiredItems": {
+    "gtceu:auto_maintenance_hatch": 4,
+    "gtceu:inert_machine_casing": 47,
+    "gtceu:ev_energy_input_hatch_16a": 4,
+    "gtceu:cupronickel_coil_block": 2,
+    "gtceu:ev_input_hatch_4x": 1,
+    "gtceu:ptfe_pipe_casing": 4,
+    "gtceu:ev_energy_input_hatch": 4,
+    "gtceu:ev_output_hatch_4x": 2,
+    "gtceu:ev_input_bus": 1,
+    "gtceu:ev_output_bus": 2,
+    "gtceu:large_chemical_reactor": 4
+  }
+}
