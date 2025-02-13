@@ -1,0 +1,16 @@
+{
+  "name": "Quad LEC",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:nonconducting_casing\"},{Name:\"gtceu:ev_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:electrolytic_cell\",Properties:{active:\"false\"}},{Name:\"gtceu:ev_input_hatch_4x\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:ev_energy_input_hatch\",Properties:{facing:\"up\",server_tick:\"true\"}},{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"up\",server_tick:\"true\"}},{Name:\"gtceu:large_electrolyzer\",Properties:{facing:\"down\",server_tick:\"false\",upwards_facing:\"north\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:large_electrolyzer\",Properties:{facing:\"up\",server_tick:\"false\",upwards_facing:\"north\"}},{Name:\"gtceu:ev_output_bus\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:ev_output_hatch_4x\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:large_electrolyzer\",Properties:{facing:\"down\",server_tick:\"false\",upwards_facing:\"south\"}},{Name:\"gtceu:large_electrolyzer\",Properties:{facing:\"up\",server_tick:\"false\",upwards_facing:\"south\"}}],endpos:{X:0,Y:6,Z:4},startpos:{X:-4,Y:0,Z:0},statelist:[I;0,1,1,1,2,1,3,3,3,1,1,3,3,3,1,4,1,1,1,1,1,3,3,3,1,1,3,3,3,1,5,1,1,1,6,1,1,7,1,1,1,3,3,3,1,1,3,3,3,8,9,1,1,1,1,1,3,3,3,8,1,3,3,3,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11,1,1,1,1,12,1,1,1,1,11,1,1,1,1,1,1,1,1,1,1,1,1,13,1,1,1,3,3,3,1,1,3,3,3,8,9,1,1,1,1,1,3,3,3,8,1,3,3,3,1,1,1,14,1,1,2,1,1,1,0,1,3,3,3,1,1,3,3,3,1,4,1,1,1,1,1,3,3,3,1,1,3,3,3,1,6,1,1,1,5]}",
+  "requiredItems": {
+    "gtceu:auto_maintenance_hatch": 4,
+    "gtceu:ev_energy_input_hatch_16a": 4,
+    "gtceu:electrolytic_cell": 48,
+    "gtceu:nonconducting_casing": 104,
+    "gtceu:ev_input_hatch_4x": 2,
+    "gtceu:large_electrolyzer": 4,
+    "gtceu:ev_energy_input_hatch": 4,
+    "gtceu:ev_input_bus": 2,
+    "gtceu:ev_output_hatch_4x": 1,
+    "gtceu:ev_output_bus": 2
+  }
+}
