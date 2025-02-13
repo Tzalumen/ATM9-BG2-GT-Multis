@@ -1,0 +1,15 @@
+{
+  "name": "Quad LAF",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:large_scale_assembler_casing\"},{Name:\"gtceu:tempered_glass\"},{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"up\",server_tick:\"true\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"true\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"minecraft:air\"},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"north\",server_tick:\"false\"}},{Name:\"gtceu:large_assembler\",Properties:{facing:\"north\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:ev_input_hatch\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:large_assembler\",Properties:{facing:\"west\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:ev_output_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:large_assembler\",Properties:{facing:\"east\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:large_assembler\",Properties:{facing:\"south\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"south\",server_tick:\"false\"}}],endpos:{X:4,Y:8,Z:4},startpos:{X:0,Y:0,Z:0},statelist:[I;0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,2,0,0,0,2,3,0,0,0,3,4,5,0,6,4,4,0,0,0,4,0,0,7,0,0,0,0,0,0,0,1,4,0,4,1,1,4,0,4,1,1,4,0,4,1,0,0,0,0,0,0,4,0,4,0,8,4,0,4,9,0,4,0,4,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10,11,10,7,0,0,0,0,0,1,4,0,4,1,1,4,0,4,1,1,4,0,4,1,0,0,0,0,0,0,4,0,4,0,12,4,0,4,13,0,4,0,4,0,0,0,10,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,2,0,0,0,2,3,0,0,0,3,4,14,0,15,4,4,0,0,0,4,0,0,7,0,0]}",
+  "requiredItems": {
+    "gtceu:large_scale_assembler_casing": 132,
+    "gtceu:auto_maintenance_hatch": 4,
+    "gtceu:ev_input_hatch": 4,
+    "gtceu:ev_energy_input_hatch_16a": 4,
+    "gtceu:large_assembler": 4,
+    "fluxnetworks:flux_point": 4,
+    "gtceu:ev_input_bus": 4,
+    "gtceu:ev_output_bus": 1,
+    "gtceu:tempered_glass": 36
+  }
+}
