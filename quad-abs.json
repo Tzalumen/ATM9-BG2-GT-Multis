@@ -1,0 +1,22 @@
+{
+  "name": "Quad ABS",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"gtceu:high_temperature_smelting_casing\"},{Name:\"gtceu:hssg_coil_block\",Properties:{active:\"false\"}},{Name:\"gtceu:heat_vent\",Properties:{active:\"false\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"north\",server_tick:\"false\"}},{Name:\"gtceu:ev_output_hatch_4x\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"minecraft:white_concrete\"},{Name:\"integrateddynamics:cable\",Properties:{waterlogged:\"false\"}},{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"west\",server_tick:\"true\"}},{Name:\"gtceu:ev_energy_input_hatch_16a\",Properties:{facing:\"east\",server_tick:\"true\"}},{Name:\"gtceu:alloy_blast_smelter\",Properties:{facing:\"down\",server_tick:\"false\",upwards_facing:\"east\"}},{Name:\"gtceu:alloy_blast_smelter\",Properties:{facing:\"down\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:lv_muffler_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:ev_energy_input_hatch\",Properties:{facing:\"west\",server_tick:\"true\"}},{Name:\"gtceu:ev_energy_input_hatch\",Properties:{facing:\"east\",server_tick:\"true\"}},{Name:\"expatternprovider:wireless_connect\",Properties:{color:\"1\",connected:\"true\"}},{Name:\"ae2:cable_bus\",Properties:{light_level:\"0\",waterlogged:\"false\"}},{Name:\"biomesoplenty:hellbark_wall_hanging_sign\",Properties:{facing:\"east\",waterlogged:\"false\"}},{Name:\"gtceu:ev_input_hatch_4x\",Properties:{facing:\"down\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"expatternprovider:ex_pattern_provider\",Properties:{push_direction:\"all\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"south\",server_tick:\"false\"}}],endpos:{X:0,Y:4,Z:0},startpos:{X:-8,Y:0,Z:-8},statelist:[I;0,0,0,0,0,0,0,0,0,1,2,3,2,1,2,3,2,1,4,2,3,2,1,2,3,2,4,1,2,3,2,5,2,3,2,1,6,0,0,0,7,7,7,7,7,8,2,3,2,1,2,3,2,9,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,10,2,3,2,1,2,3,2,11,1,0,0,0,1,0,0,0,1,1,0,0,0,12,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,13,2,3,2,1,2,3,2,14,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,0,0,15,16,16,0,0,0,17,1,2,3,2,18,2,3,2,1,1,2,3,2,1,2,3,2,1,1,2,3,2,19,2,3,2,1,0,0,15,16,16,16,16,20,7,13,2,3,2,1,2,3,2,14,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,10,2,3,2,1,2,3,2,11,1,0,0,0,1,0,0,0,1,1,0,0,0,12,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,8,2,3,2,1,2,3,2,9,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,3,2,1,2,3,2,1,0,0,0,0,0,0,0,0,6,1,2,3,2,1,2,3,2,1,21,2,3,2,1,2,3,2,21,1,2,3,2,5,2,3,2,1,0,0,0,0,7,7,7,7,7]}",
+  "requiredItems": {
+    "integrateddynamics:cable": 11,
+    "gtceu:heat_vent": 42,
+    "gtceu:lv_muffler_hatch": 2,
+    "gtceu:ev_energy_input_hatch_16a": 4,
+    "expatternprovider:ex_pattern_provider": 1,
+    "gtceu:ev_input_hatch_4x": 1,
+    "biomesoplenty:hellbark_hanging_sign": 1,
+    "minecraft:white_concrete": 2,
+    "gtceu:alloy_blast_smelter": 4,
+    "expatternprovider:wireless_connect": 2,
+    "gtceu:ev_energy_input_hatch": 4,
+    "gtceu:high_temperature_smelting_casing": 95,
+    "gtceu:hssg_coil_block": 84,
+    "gtceu:ev_output_hatch_4x": 2,
+    "gtceu:ev_input_bus": 1,
+    "gtceu:auto_maintenance_hatch": 4
+  }
+}
