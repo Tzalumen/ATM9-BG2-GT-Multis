@@ -1,0 +1,16 @@
+{
+  "name": "Quad Large Material Press",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:luv_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:stress_proof_casing\"},{Name:\"gtceu:luv_parallel_hatch\",Properties:{facing:\"north\",server_tick:\"false\"}},{Name:\"gtceu:tempered_glass\"},{Name:\"gtceu:large_material_press\",Properties:{facing:\"north\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"north\",server_tick:\"false\"}},{Name:\"gtceu:large_material_press\",Properties:{facing:\"north\",server_tick:\"false\",upwards_facing:\"east\"}},{Name:\"gtceu:luv_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:steel_gearbox\"},{Name:\"minecraft:air\"},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:me_output_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:luv_parallel_hatch\",Properties:{facing:\"south\",server_tick:\"false\"}},{Name:\"gtceu:large_material_press\",Properties:{facing:\"south\",server_tick:\"false\",upwards_facing:\"west\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"south\",server_tick:\"false\"}},{Name:\"gtceu:large_material_press\",Properties:{facing:\"south\",server_tick:\"false\",upwards_facing:\"east\"}}],endpos:{X:0,Y:6,Z:4},startpos:{X:-4,Y:0,Z:0},statelist:[I;0,1,1,2,0,1,3,1,4,1,1,3,1,5,1,1,3,1,3,1,1,5,1,3,1,1,6,1,3,1,1,2,1,1,1,1,7,1,7,1,1,8,1,9,1,1,8,1,1,1,1,8,1,8,1,1,1,1,8,1,1,9,1,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,10,11,10,1,1,7,1,7,1,1,9,1,8,1,1,1,1,8,1,1,8,1,8,1,1,8,1,1,1,1,8,1,9,1,1,1,1,1,1,0,12,1,1,0,1,13,1,3,1,1,14,1,3,1,1,3,1,3,1,1,3,1,14,1,1,3,1,15,1,1,1,1,12,1]}",
+  "requiredItems": {
+    "gtceu:stress_proof_casing": 123,
+    "gtceu:auto_maintenance_hatch": 4,
+    "gtceu:luv_energy_input_hatch": 4,
+    "gtceu:me_output_bus": 1,
+    "gtceu:luv_energy_input_hatch_16a": 4,
+    "gtceu:luv_parallel_hatch": 4,
+    "gtceu:large_material_press": 4,
+    "gtceu:ev_input_bus": 3,
+    "gtceu:tempered_glass": 12,
+    "gtceu:steel_gearbox": 12
+  }
+}
