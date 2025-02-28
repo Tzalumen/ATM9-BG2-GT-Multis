@@ -1,0 +1,15 @@
+{
+  "name": "Quad LMT",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:secure_maceration_casing\"},{Name:\"gtceu:zpm_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:crushing_wheels\",Properties:{active:\"false\"}},{Name:\"minecraft:air\"},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:large_maceration_tower\",Properties:{facing:\"west\",server_tick:\"false\",upwards_facing:\"north\"}},{Name:\"gtceu:large_maceration_tower\",Properties:{facing:\"east\",server_tick:\"false\",upwards_facing:\"north\"}},{Name:\"gtceu:luv_parallel_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:luv_parallel_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:zpm_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:me_output_bus\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:ev_input_bus\",Properties:{facing:\"up\",server_tick:\"false\"}}],endpos:{X:0,Y:3,Z:0},startpos:{X:-8,Y:0,Z:-8},statelist:[I;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,2,2,0,2,2,2,0,0,2,2,2,0,2,2,2,0,0,3,3,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,4,2,2,2,0,2,2,2,5,6,2,2,2,0,2,2,2,7,8,3,3,3,0,3,3,3,9,0,0,0,10,0,10,0,0,0,0,2,2,2,0,2,2,2,0,0,2,2,2,0,2,2,2,0,0,3,3,3,11,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,10,0,10,0,0,0,0,2,2,2,0,2,2,2,0,0,2,2,2,0,2,2,2,0,0,3,3,3,11,3,3,3,0,0,0,0,0,0,0,0,0,0,4,2,2,2,0,2,2,2,5,6,2,2,2,0,2,2,2,7,8,3,3,3,0,3,3,3,9,0,1,0,0,0,0,0,1,0,0,2,2,2,0,2,2,2,0,0,2,2,2,0,2,2,2,0,0,3,3,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}",
+  "requiredItems": {
+    "gtceu:auto_maintenance_hatch": 4,
+    "gtceu:crushing_wheels": 72,
+    "gtceu:large_maceration_tower": 4,
+    "gtceu:me_output_bus": 2,
+    "gtceu:zpm_energy_input_hatch_16a": 4,
+    "gtceu:zpm_energy_input_hatch": 4,
+    "gtceu:luv_parallel_hatch": 4,
+    "gtceu:secure_maceration_casing": 193,
+    "gtceu:ev_input_bus": 1
+  }
+}
