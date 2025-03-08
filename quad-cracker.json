@@ -1,0 +1,17 @@
+{
+  "name": "quad cracker",
+  "statePosArrayList": "{blockstatemap:[{Name:\"gtceu:luv_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:clean_machine_casing\"},{Name:\"gtceu:naquadah_coil_block\",Properties:{active:\"false\"}},{Name:\"gtceu:cracker\",Properties:{facing:\"north\",server_tick:\"false\",upwards_facing:\"east\"}},{Name:\"gtceu:hv_input_hatch\",Properties:{facing:\"up\",server_tick:\"true\"}},{Name:\"gtceu:luv_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"minecraft:air\"},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"west\",server_tick:\"false\"}},{Name:\"gtceu:auto_maintenance_hatch\",Properties:{facing:\"east\",server_tick:\"false\"}},{Name:\"gtceu:lv_muffler_hatch\",Properties:{facing:\"down\",server_tick:\"false\"}},{Name:\"gtceu:ev_output_hatch_4x\",Properties:{facing:\"up\",server_tick:\"false\"}},{Name:\"gtceu:zpm_energy_input_hatch_16a\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:zpm_energy_input_hatch\",Properties:{facing:\"down\",server_tick:\"true\"}},{Name:\"gtceu:cracker\",Properties:{facing:\"south\",server_tick:\"false\",upwards_facing:\"east\"}}],endpos:{X:0,Y:4,Z:0},startpos:{X:-4,Y:0,Z:-4},statelist:[I;0,1,1,1,0,2,2,2,2,2,1,3,1,3,1,2,2,2,2,2,1,4,1,4,1,5,1,1,1,5,2,6,2,6,2,7,6,1,6,8,2,6,2,6,2,1,1,4,1,1,1,1,9,1,1,2,2,2,2,2,1,1,1,1,1,2,2,2,2,2,1,1,10,1,1,11,1,1,1,5,2,6,2,6,2,7,6,1,6,8,2,6,2,6,2,1,1,4,1,1,12,1,1,1,0,2,2,2,2,2,1,13,1,13,1,2,2,2,2,2,1,4,1,4,1]}",
+  "requiredItems": {
+    "gtceu:clean_machine_casing": 47,
+    "gtceu:cracker": 4,
+    "gtceu:lv_muffler_hatch": 1,
+    "gtceu:hv_input_hatch": 6,
+    "gtceu:luv_energy_input_hatch": 3,
+    "gtceu:naquadah_coil_block": 42,
+    "gtceu:zpm_energy_input_hatch_16a": 1,
+    "gtceu:zpm_energy_input_hatch": 1,
+    "gtceu:luv_energy_input_hatch_16a": 3,
+    "gtceu:ev_output_hatch_4x": 1,
+    "gtceu:auto_maintenance_hatch": 4
+  }
+}
